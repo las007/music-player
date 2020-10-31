@@ -1,0 +1,6 @@
+export const SET_AUDIOELE = 'SET_AUDIOELE'
+export const SET_PLAYING = 'SET_PLAYING'
+export const SET_PLAY_LIST = 'SET_PLAY_LIST'
+export const SET_CURRENT_INDEX = 'SET_CURRENT_INDEX'
+export const SET_HISTORY_LIST = 'SET_HISTORY_LIST'
+export const SET_UID = 'SET_UID'
